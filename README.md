@@ -1,10 +1,7 @@
-# 🛍️ Mighty Superstore Sales Dashboard
+# 🛍️  Superstore Sales Dashboard
 
-An interactive Power BI dashboard built to visualize and analyze the sales performance of a fictional retail company, **Mighty Superstore**. This dashboard enables quick insights into revenue, profit, sales distribution, product performance, and segment contributions across various regions and states.
+An interactive Power BI dashboard built to visualize and analyze the sales performance of a fictional retail company, **Superstore**. This dashboard enables quick insights into revenue, profit, sales distribution, product performance, and segment contributions across various regions and states.
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/mightynawiin/Elevate-labs-4/main/Screenshot%202025-05-30%20195503.png)
-
----
 
 ## 📊 Features
 
@@ -62,16 +59,3 @@ This dashboard includes the following key components:
 > **Action**: Use the Region and Segment slicers to filter the view, and then analyze the “Sum of Profit by Product Name” visual.
 
 ---
-
-## 📸 Screenshot
-
-![Mighty Superstore Dashboard](https://raw.githubusercontent.com/mightynawiin/Elevate-labs-4/main/Screenshot%202025-05-30%20195503.png)
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mightynawiin/Elevate-labs-4.git
-
